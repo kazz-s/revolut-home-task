@@ -1,0 +1,10 @@
+# Pycharm
+.idea
+
+# python
+__pycache__
+
+# pytest
+.coverage
+.pytest_cache
+htmlcov
